@@ -1,2 +1,3 @@
 digite sua senha
 confirma a sua senha
+adiona a sua idade
